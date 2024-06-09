@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @GreenSquid1234
-- 📫 I’m currently studing computer science and am also keen to work on some of my projects :)
+- 👋 Hi, I’m Allegra Handa
+- 📫 I’m currently studing computer science and cybersecurity and am also working on some of my own projects :)
